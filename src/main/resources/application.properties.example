@@ -1,0 +1,6 @@
+server.port=8000
+logging.level.org.springframework=info
+
+spring.data.mongodb.database=Your database name
+spring.data.mongodb.uri=Your database URI 
+
